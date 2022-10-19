@@ -11,6 +11,7 @@
   z-index: 123456789;
   box-shadow: 0 0 20px 5px #00000050;
   border-radius: 3px;
+  text-align: left;
 }
 #s__ts > div,
 #s__ts p {
@@ -18,4 +19,5 @@
   line-height: inherit;
   margin: initial;
   padding: initial;
+  text-align: inherit;
 }
